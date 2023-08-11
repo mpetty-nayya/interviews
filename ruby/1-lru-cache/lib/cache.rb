@@ -27,7 +27,7 @@ class Cache
         result.value
     end
     
-    def set(key, val)
+    def put(key, val)
         return nil if key.nil?             
         @current_size += 1        
         if @current_size > @max_size         
