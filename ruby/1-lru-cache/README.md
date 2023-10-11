@@ -15,7 +15,7 @@ Our LRU Cache is implemented by pairing a Doubly Linked List with a ruby Hash
 
 * **lib**  - dir containing implementation
 * **spec** - dir containing unit tests
-* [lru-cache.png](lur-cache.png) - diagrom of cache usage
+* [lru-cache.png](./lru-cache.png) - diagrom of cache usage
 
 # Run Tests
 
