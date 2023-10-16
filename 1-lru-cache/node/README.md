@@ -13,14 +13,14 @@ Our LRU Cache is implemented by pairing a Doubly Linked List with a Hash
 ## Build
 
 ```bash
-# execute python unittests
+# from node dir
 npm install
 ```
 
 # Run Tests
 
 ```bash
-# execute python unittests
+# from node dir
 npm run test
 ```
 

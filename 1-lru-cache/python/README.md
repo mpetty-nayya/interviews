@@ -13,7 +13,7 @@ Our LRU Cache is implemented by pairing a Doubly Linked List with a Hash
 # Run Tests
 
 ```bash
-# execute python unittests
+# from python dir
 python -m unittest tests/cache.p
 ```
 
