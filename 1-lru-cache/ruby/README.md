@@ -11,7 +11,7 @@ Our LRU Cache is implemented by pairing a Doubly Linked List with a Hash
 
 ## Run Tests
 ```bash
-# from ruby dir
+cd inteviews/1-lru-cache/ruby
 rspec .
 ```
 

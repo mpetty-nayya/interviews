@@ -28,12 +28,4 @@ Based on the value of a specified key, I want to be able to extract the adjacent
 
 Implement the provided method so all unit test pass
 
-
-# Run Tests
-
-```bash
-# from python dir
-python -m unittest tests/methods.p
-```
-
 See [root readme](../../README.md) to install python

@@ -11,7 +11,8 @@ Python Adjacent Key Exercise
 
 ```bash
 # from python dir
-python -m unittest tests/cache.p
+cd interviews/2-adjacent-key/python
+python -m unittest tests/methods.py
 ```
 
 See [root readme](../../README.md) to install python
