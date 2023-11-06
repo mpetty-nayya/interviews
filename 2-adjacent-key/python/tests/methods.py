@@ -63,7 +63,7 @@ class MethodsTest(unittest.TestCase):
 
     def test_no_match(self):
         self.assertEqual(
-            'authorize',
+            None,
             get_adjacent_key(self.my_dict, 'url', 'https://example.com/authorize', 'step')
         )
 
