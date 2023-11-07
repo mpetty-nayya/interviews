@@ -42,6 +42,14 @@ class MethodsTest(unittest.TestCase):
             'https://example.com/other',
             get_adjacent_key(self.my_dict, 'step', 'other', 'url')
         )
+        self.assertEqual(
+            'https://example.com/other',
+            get_adjacent_key(self.my_dict, 'step', ['buy', 'other'], 'url')
+        )
+        self.assertEqual(
+            'https://example.com/enter',
+            get_adjacent_key(self.my_dict, 'step', ['buy', 'enter', 'other'], 'url')
+        )
 
     def test_get_step_by_url(self):
         self.assertEqual(
@@ -64,7 +72,7 @@ class MethodsTest(unittest.TestCase):
     def test_no_match(self):
         self.assertEqual(
             None,
-            get_adjacent_key(self.my_dict, 'url', 'https://example.com/authorize', 'step')
+            get_adjacent_key(self.my_dict, 'url', 'https://example.com/buy', 'step')
         )
 
 if __name__ == '__main__':
