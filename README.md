@@ -3,6 +3,7 @@
 Repo containing interview exercises
 
 * [1-lru-cache](./1-lru-cache/README.md)
+* [2-adjacent-key](./2-adjacent-key/README.md)
 
 # Prerequisites
 

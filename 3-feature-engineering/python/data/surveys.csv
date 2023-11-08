@@ -1,0 +1,272 @@
+idx,age,family,salary,household_salaries,financial_risk_preference,preexisting_conditions,prescription_costs,pcp_costs,specialist_costs,pcp_visits,qle,specialty_visits,exercises,savings,classification
+0,38,Just Me,84189,84189.0,3,none,97,1025,358,9,none,1,I exercise 3x a week,HSA,Cigna Copay Plan PPO
+1,33,Me and my Spouse,117690,129459.0,3,none,51,155,0,2,none,0,I exercise 3x a week,have savings,Cigna Base HDHP
+2,47,Me and my kids,83461,100153.2,3,high blood pressure,763,268,0,2,baby,0,I exercise 3x a week,have savings,Cigna Copay Plan PPO
+3,30,Me and my Spouse,62145,74574.0,3,none,92,268,1257,2,none,3,I don't exercise,have savings,Cigna Base HDHP
+4,35,Just Me,55385,55385.0,3,none,80,270,2590,2,moving,6,I exercise 3x a week,have savings,Cigna Choice HDHP
+5,22,Just Me,142907,142907.0,3,none,48,0,699,0,none,2,I exercise 3x a week,HSA,Cigna Base HDHP
+6,55,Me and my Spouse,32288,48432.0,3,none,893,277,353,2,none,1,I exercise everyday,HSA,Cigna Base HDHP
+7,51,"Me, Spouse, and Kids",93142,111770.4,3,none,30,709,753,9,moving,2,I don't exercise,borrow money,Cigna Copay Plan PPO
+8,53,Just Me,68966,68966.0,3,none,37,207,1421,2,baby,4,I don't exercise,borrow money,Cigna Copay Plan PPO
+9,52,Just Me,61463,61463.0,3,none,33,286,836,2,med_procedure,2,I exercise 3x a week,HSA,Cigna Copay Plan PPO
+10,51,Me and my Spouse,36145,43374.0,3,none,50,155,1105,2,none,4,I exercise 3x a week,have savings,Cigna Choice HDHP
+11,35,Me and my Spouse,64414,77296.8,1,none,28,0,722,0,moving,2,I exercise 3x a week,HSA,Cigna Base HDHP
+12,56,Me and my kids,66506,106409.6,3,none,242,709,884,6,baby,3,I don't exercise,borrow money,Cigna Copay Plan PPO
+13,24,Me and my kids,117393,164350.19999999998,3,none,631,83,3112,1,none,9,I don't exercise,have savings,Cigna Copay Plan PPO
+14,58,Me and my Spouse,140171,224273.6,3,high blood pressure,92,866,3395,9,med_procedure,7,I exercise everyday,borrow money,Cigna Copay Plan PPO
+15,51,Me and my kids,60497,102844.9,3,none,82,90,668,1,none,2,I exercise 3x a week,have savings,Cigna Base HDHP
+16,52,Me and my Spouse,63342,88678.79999999999,5,high blood pressure,798,222,856,2,med_procedure,2,I don't exercise,have savings,Cigna Copay Plan PPO
+17,26,Me and my kids,134892,175359.6,3,none,70,658,564,4,none,2,I exercise 3x a week,have savings,Cigna Base HDHP
+18,57,Just Me,62600,62600.0,3,none,80,297,405,3,none,1,I exercise everyday,HSA,Cigna Base HDHP
+19,34,Just Me,66639,66639.0,3,none,39,141,673,1,med_procedure,2,I don't exercise,borrow money,Cigna Copay Plan PPO
+20,56,Me and my Spouse,53359,74702.59999999999,1,none,36,951,759,7,none,2,I don't exercise,have savings,Cigna Choice HDHP
+21,46,Me and my Spouse,147706,206788.4,3,none,1010,114,954,1,none,2,I don't exercise,HSA,Cigna Base HDHP
+22,28,Me and my kids,33217,49825.5,3,obesity,78,136,1356,1,none,4,I exercise 3x a week,have savings,Cigna Choice HDHP
+23,34,Me and my Spouse,36320,43584.0,3,obesity,59,0,931,0,none,2,I don't exercise,have savings,Cigna Choice HDHP
+24,26,Me and my Spouse,63373,95059.5,2,none,50,76,453,1,none,1,I exercise 3x a week,borrow money,Cigna Base HDHP
+25,45,"Me, Spouse, and Kids",90836,118086.8,3,obesity,43,1252,812,9,moving,2,I don't exercise,have savings,Cigna Copay Plan PPO
+26,56,Me and my kids,133188,199782.0,3,none,80,92,877,1,none,2,I exercise everyday,have savings,Cigna Base HDHP
+27,31,"Me, Spouse, and Kids",55992,83988.0,3,none,62,109,384,1,none,1,I exercise 3x a week,borrow money,Cigna Base HDHP
+28,47,"Me, Spouse, and Kids",32883,46036.2,3,none,83,1088,481,9,none,1,I don't exercise,have savings,Cigna Choice HDHP
+29,27,Me and my Spouse,109216,174745.6,3,none,80,583,0,4,baby,0,I exercise 3x a week,borrow money,Cigna Copay Plan PPO
+30,57,Me and my kids,39258,51035.4,3,none,72,175,0,2,moving,0,I don't exercise,borrow money,Cigna Base HDHP
+31,52,"Me, Spouse, and Kids",51785,88034.5,3,high blood sugar,69,138,779,1,none,2,I don't exercise,have savings,Cigna Copay Plan PPO
+32,24,Me and my Spouse,65740,78888.0,3,none,68,315,2381,2,none,7,I exercise everyday,HSA,Cigna Choice HDHP
+33,53,"Me, Spouse, and Kids",124436,149323.19999999998,3,none,64,414,0,3,married,0,I don't exercise,borrow money,Cigna Base HDHP
+34,26,Me and my Spouse,58836,88254.0,5,none,524,0,1407,0,none,3,I exercise everyday,borrow money,Cigna Choice HDHP
+35,42,Just Me,31020,31020.0,3,obesity,93,324,1821,2,divorced,6,I exercise 3x a week,borrow money,Cigna Choice HDHP
+36,22,Me and my kids,60161,78209.3,4,high blood pressure,52,322,1209,2,none,3,I exercise 3x a week,have savings,Cigna Choice HDHP
+37,24,Me and my kids,40534,56747.6,3,none,45,1265,0,8,none,0,I exercise everyday,borrow money,Cigna Choice HDHP
+38,37,Me and my Spouse,140307,210460.5,3,none,149,161,574,2,none,2,I exercise everyday,HSA,Cigna Base HDHP
+39,37,"Me, Spouse, and Kids",45875,73400.0,3,high blood pressure,44,314,733,2,married,2,I exercise 3x a week,have savings,Cigna Choice HDHP
+40,50,Just Me,121327,121327.0,3,none,45,151,2260,1,none,6,I exercise 3x a week,have savings,Cigna Choice HDHP
+41,48,Just Me,64839,64839.0,3,high blood sugar,82,278,1757,2,none,5,I exercise 3x a week,HSA,Cigna Copay Plan PPO
+42,41,"Me, Spouse, and Kids",30658,49052.8,5,high blood sugar,55,190,3417,2,med_procedure,8,I exercise 3x a week,borrow money,Cigna Choice HDHP
+43,55,"Me, Spouse, and Kids",61014,97622.4,3,none,30,103,1682,1,married,5,I don't exercise,have savings,Cigna Choice HDHP
+44,57,Just Me,38953,38953.0,3,high blood pressure,83,383,862,4,moving,2,I exercise 3x a week,HSA,Cigna Choice HDHP
+45,53,Just Me,62546,62546.0,3,heart disease,32,840,483,8,none,1,I exercise everyday,have savings,Cigna Copay Plan PPO
+46,30,Me and my kids,34554,41464.8,3,high blood pressure,65,151,684,1,moving,2,I exercise 3x a week,borrow money,Cigna Choice HDHP
+47,53,Just Me,143515,143515.0,3,none,77,400,1537,4,none,5,I exercise everyday,borrow money,Cigna Choice HDHP
+48,32,Me and my Spouse,43286,69257.6,3,none,90,227,699,2,baby,2,I exercise everyday,borrow money,Cigna Choice HDHP
+49,34,Me and my Spouse,35878,57404.8,3,high blood pressure,99,142,0,2,none,0,I exercise 3x a week,borrow money,Cigna Choice HDHP
+50,32,"Me, Spouse, and Kids",76737,99758.1,3,high blood pressure,42,736,1506,7,none,4,I don't exercise,borrow money,Cigna Choice HDHP
+51,26,Just Me,71075,71075.0,4,none,41,140,0,1,none,0,I exercise 3x a week,have savings,Cigna Choice HDHP
+52,43,Just Me,36253,36253.0,4,none,27,310,836,2,baby,2,I don't exercise,have savings,Cigna Copay Plan PPO
+53,40,Just Me,77338,77338.0,3,none,34,369,1853,5,none,4,I exercise everyday,have savings,Cigna Choice HDHP
+54,34,Me and my Spouse,129731,142704.1,3,none,67,436,2058,6,married,7,I don't exercise,have savings,Cigna Copay Plan PPO
+55,51,Me and my kids,66600,93240.0,3,none,44,1459,897,9,none,2,I don't exercise,have savings,Cigna Copay Plan PPO
+56,58,Just Me,71265,71265.0,3,none,620,150,541,2,moving,2,I don't exercise,HSA,Cigna Base HDHP
+57,25,Me and my Spouse,61477,86067.79999999999,3,none,93,639,0,4,baby,0,I exercise everyday,borrow money,Cigna Copay Plan PPO
+58,28,Just Me,46795,46795.0,3,none,55,212,2141,2,none,7,I exercise everyday,HSA,Cigna Copay Plan PPO
+59,26,Me and my Spouse,66025,105640.0,3,none,99,249,0,3,none,0,I exercise everyday,have savings,Cigna Base HDHP
+60,37,Me and my Spouse,39855,43840.5,3,none,39,485,3482,3,med_procedure,7,I exercise everyday,have savings,Cigna Choice HDHP
+61,50,Me and my kids,106397,159595.5,4,none,67,324,3016,2,none,9,I don't exercise,borrow money,Cigna Copay Plan PPO
+62,21,Just Me,62762,62762.0,3,none,1001,499,3448,6,none,8,I exercise everyday,have savings,Cigna Copay Plan PPO
+63,45,Just Me,36411,36411.0,3,none,26,318,0,2,baby,0,I exercise 3x a week,HSA,Cigna Copay Plan PPO
+64,45,Me and my kids,66747,93445.8,3,none,46,157,2706,2,med_procedure,8,I exercise 3x a week,borrow money,Cigna Copay Plan PPO
+65,32,"Me, Spouse, and Kids",43818,61345.2,3,high blood sugar,31,0,2046,0,married,5,I exercise everyday,borrow money,Cigna Choice HDHP
+66,19,Me and my Spouse,117831,176746.5,4,high blood pressure,68,154,3390,2,none,7,I don't exercise,borrow money,Cigna Copay Plan PPO
+67,42,Me and my Spouse,89214,133821.0,3,high blood sugar,89,80,1409,1,none,5,I exercise everyday,borrow money,Cigna Copay Plan PPO
+68,48,Me and my Spouse,38474,53863.6,4,none,227,1342,2009,9,moving,6,I exercise 3x a week,HSA,Cigna Choice HDHP
+69,53,Just Me,56919,56919.0,3,none,103,552,2578,6,baby,9,I don't exercise,HSA,Cigna Copay Plan PPO
+70,21,Just Me,123435,123435.0,3,none,83,204,2102,2,none,5,I don't exercise,borrow money,Cigna Choice HDHP
+71,27,Just Me,54628,54628.0,3,none,84,141,0,2,med_procedure,0,I exercise everyday,borrow money,Cigna Copay Plan PPO
+72,55,Me and my kids,61687,92530.5,3,none,80,125,337,1,none,1,I exercise 3x a week,have savings,Cigna Base HDHP
+73,32,Just Me,56434,56434.0,3,none,98,0,722,0,baby,2,I exercise everyday,borrow money,Cigna Copay Plan PPO
+74,42,Just Me,37226,37226.0,3,none,321,0,533,0,none,2,I exercise everyday,HSA,Cigna Base HDHP
+75,66,Just Me,32258,32258.0,3,none,33,0,0,0,med_procedure,0,I don't exercise,HSA,Cigna Copay Plan PPO
+76,57,Me and my Spouse,61838,98940.8,3,none,61,849,3198,8,baby,8,I exercise everyday,HSA,Cigna Copay Plan PPO
+77,38,"Me, Spouse, and Kids",89751,107701.2,3,none,1092,0,653,0,none,2,I exercise 3x a week,borrow money,Cigna Base HDHP
+78,38,Me and my Spouse,47295,61483.5,3,none,685,199,2019,2,moving,6,I exercise 3x a week,borrow money,Cigna Choice HDHP
+79,23,Just Me,66945,66945.0,3,none,79,651,735,4,married,2,I exercise 3x a week,borrow money,Cigna Base HDHP
+80,33,Me and my Spouse,69288,117789.6,3,high blood pressure,54,149,0,1,none,0,I don't exercise,have savings,Cigna Choice HDHP
+81,51,Me and my Spouse,72478,108717.0,5,none,27,147,2433,1,none,5,I don't exercise,HSA,Cigna Choice HDHP
+82,23,Me and my kids,131655,197482.5,3,obesity,764,559,552,5,none,2,I exercise everyday,borrow money,Cigna Choice HDHP
+83,34,Me and my Spouse,67279,74006.90000000001,5,none,79,631,893,8,none,2,I exercise 3x a week,have savings,Cigna Choice HDHP
+84,38,"Me, Spouse, and Kids",54390,92463.0,3,none,21,146,0,2,none,0,I don't exercise,have savings,Cigna Base HDHP
+85,55,Me and my kids,117647,199999.9,3,none,35,160,428,1,none,1,I exercise everyday,borrow money,Cigna Base HDHP
+86,33,Me and my Spouse,50855,55940.50000000001,3,obesity,34,90,3938,1,none,8,I don't exercise,have savings,Cigna Choice HDHP
+87,22,"Me, Spouse, and Kids",69209,76129.90000000001,4,none,66,183,624,2,none,2,I exercise 3x a week,borrow money,Cigna Choice HDHP
+88,46,"Me, Spouse, and Kids",54141,70383.3,1,high blood pressure,95,238,593,2,none,2,I exercise everyday,borrow money,Cigna Choice HDHP
+89,26,"Me, Spouse, and Kids",32287,48430.5,3,obesity,39,374,941,5,none,2,I exercise 3x a week,borrow money,Cigna Choice HDHP
+90,58,Me and my Spouse,48406,82290.2,3,none,35,477,1909,6,none,5,I exercise 3x a week,borrow money,Cigna Choice HDHP
+91,37,Me and my Spouse,66656,73321.6,3,none,262,0,720,0,baby,2,I don't exercise,have savings,Cigna Choice HDHP
+92,37,Me and my kids,95410,143115.0,5,obesity,41,137,973,1,none,2,I exercise everyday,borrow money,Cigna Choice HDHP
+93,38,"Me, Spouse, and Kids",139986,167983.19999999998,3,obesity,31,0,2563,0,none,8,I exercise 3x a week,borrow money,Cigna Copay Plan PPO
+94,65,"Me, Spouse, and Kids",67321,94249.4,3,none,55,620,363,5,none,1,I exercise 3x a week,borrow money,Cigna Base HDHP
+95,38,Me and my Spouse,45794,64111.6,5,high blood sugar,560,0,459,0,none,1,I don't exercise,have savings,Cigna Choice HDHP
+96,33,Me and my Spouse,68145,102217.5,4,cancer,55,150,1366,1,none,5,I exercise 3x a week,have savings,Cigna Copay Plan PPO
+97,28,Just Me,32077,32077.0,3,obesity,1027,279,0,2,baby,0,I exercise 3x a week,have savings,Cigna Copay Plan PPO
+98,27,"Me, Spouse, and Kids",45856,68784.0,3,none,50,777,1973,6,none,6,I don't exercise,have savings,Cigna Choice HDHP
+99,40,Just Me,94280,94280.0,3,none,96,1257,824,9,married,2,I exercise 3x a week,have savings,Cigna Copay Plan PPO
+100,44,Me and my Spouse,148781,238049.6,3,none,458,178,657,2,baby,2,I exercise everyday,borrow money,Cigna Copay Plan PPO
+101,57,Me and my Spouse,32965,39558.0,3,none,44,0,1211,0,moving,3,I exercise 3x a week,HSA,Cigna Base HDHP
+102,50,Just Me,148296,148296.0,5,none,87,433,0,4,none,0,I don't exercise,borrow money,Cigna Choice HDHP
+103,37,"Me, Spouse, and Kids",63848,89387.2,3,none,1073,715,1935,8,none,4,I exercise 3x a week,borrow money,Cigna Choice HDHP
+104,44,Me and my kids,67093,87220.90000000001,3,none,93,120,1960,1,married,5,I exercise 3x a week,have savings,Cigna Choice HDHP
+105,30,Me and my Spouse,48047,76875.2,3,none,254,281,372,3,none,1,I exercise everyday,borrow money,Cigna Base HDHP
+106,47,Me and my kids,50595,60714.0,3,obesity,39,0,0,0,baby,0,I exercise everyday,borrow money,Cigna Choice HDHP
+107,64,Just Me,66918,66918.0,3,high blood sugar,46,341,1238,4,moving,4,I exercise 3x a week,borrow money,Cigna Copay Plan PPO
+108,22,Me and my Spouse,31723,38067.6,3,none,41,447,750,6,none,2,I don't exercise,HSA,Cigna Choice HDHP
+109,30,Me and my kids,114935,126428.5,3,none,33,135,864,2,baby,2,I exercise everyday,have savings,Cigna Copay Plan PPO
+110,54,Me and my Spouse,52028,88447.59999999999,3,none,27,872,746,9,baby,2,I exercise everyday,borrow money,Cigna Copay Plan PPO
+111,62,Me and my Spouse,128750,154500.0,1,none,54,0,326,0,med_procedure,1,I exercise 3x a week,have savings,Cigna Choice HDHP
+112,23,Me and my kids,36199,39818.9,3,none,49,1141,1200,7,none,4,I don't exercise,borrow money,Cigna Choice HDHP
+113,38,Just Me,79519,79519.0,3,none,69,413,3313,5,none,7,I exercise everyday,HSA,Cigna Copay Plan PPO
+114,22,"Me, Spouse, and Kids",63674,82776.2,3,cancer,96,67,415,1,none,1,I exercise 3x a week,have savings,Cigna Copay Plan PPO
+115,43,Just Me,66490,66490.0,3,none,400,0,1261,0,none,3,I don't exercise,have savings,Cigna Base HDHP
+116,23,Just Me,48007,48007.0,3,none,61,810,0,6,moving,0,I don't exercise,HSA,Cigna Choice HDHP
+117,20,Me and my Spouse,67378,114542.6,3,none,280,796,908,6,none,2,I don't exercise,HSA,Cigna Choice HDHP
+118,30,Me and my kids,55344,60878.4,5,high blood pressure,396,306,0,4,married,0,I don't exercise,have savings,Cigna Choice HDHP
+119,18,Me and my kids,64903,110335.1,5,high blood pressure,69,160,958,1,married,3,I don't exercise,borrow money,Cigna Choice HDHP
+120,54,Just Me,65694,65694.0,3,none,37,142,491,1,none,1,I exercise 3x a week,HSA,Cigna Base HDHP
+121,27,"Me, Spouse, and Kids",44689,62564.6,4,none,64,496,291,6,baby,1,I exercise 3x a week,borrow money,Cigna Choice HDHP
+122,18,Just Me,52657,52657.0,5,none,94,200,907,2,none,2,I exercise 3x a week,HSA,Cigna Choice HDHP
+123,26,Just Me,130308,130308.0,5,high blood pressure,87,104,0,1,none,0,I exercise 3x a week,HSA,Cigna Choice HDHP
+124,18,Just Me,47989,47989.0,2,none,723,197,792,3,none,2,I don't exercise,borrow money,Cigna Base HDHP
+125,20,Me and my Spouse,32208,48312.0,3,heart disease,71,140,1371,2,none,4,I exercise 3x a week,HSA,Cigna Choice HDHP
+126,22,"Me, Spouse, and Kids",116495,186392.0,2,none,86,974,0,9,none,0,I exercise everyday,have savings,Cigna Choice HDHP
+127,42,Just Me,37708,37708.0,3,none,80,785,361,7,none,1,I exercise everyday,have savings,Cigna Choice HDHP
+128,57,Me and my Spouse,62072,105522.4,3,none,48,182,0,2,none,0,I exercise everyday,HSA,Cigna Base HDHP
+129,40,Me and my kids,64123,96184.5,3,none,42,169,0,2,none,0,I don't exercise,borrow money,Cigna Base HDHP
+130,22,"Me, Spouse, and Kids",35519,39070.9,1,none,1087,1038,4191,7,moving,9,I exercise 3x a week,borrow money,Cigna Choice HDHP
+131,21,Just Me,101999,101999.0,4,none,45,273,458,2,none,1,I don't exercise,borrow money,Cigna Choice HDHP
+132,58,Just Me,63796,63796.0,3,high blood sugar,42,524,1490,6,none,3,I exercise 3x a week,HSA,Cigna Copay Plan PPO
+133,18,Just Me,61870,61870.0,3,none,88,0,751,0,none,2,I exercise everyday,HSA,Cigna Base HDHP
+134,48,Me and my kids,35291,42349.2,4,high blood pressure,67,149,952,2,baby,2,I don't exercise,borrow money,Cigna Choice HDHP
+135,36,Just Me,139941,139941.0,5,none,43,242,333,2,none,1,I exercise everyday,HSA,Cigna Choice HDHP
+136,57,"Me, Spouse, and Kids",61731,86423.4,3,none,221,187,646,2,none,2,I exercise 3x a week,have savings,Cigna Base HDHP
+137,38,Just Me,131767,131767.0,5,none,34,244,0,2,none,0,I don't exercise,have savings,Cigna Choice HDHP
+138,30,Just Me,75659,75659.0,3,high blood pressure,630,326,790,3,none,2,I exercise 3x a week,borrow money,Cigna Choice HDHP
+139,33,Me and my kids,39918,63868.8,5,none,98,135,1973,2,none,4,I exercise everyday,have savings,Cigna Choice HDHP
+140,46,Me and my Spouse,79074,118611.0,3,none,43,238,2716,2,married,6,I don't exercise,HSA,Cigna Choice HDHP
+141,51,"Me, Spouse, and Kids",61115,103895.5,3,none,21,186,0,2,none,0,I don't exercise,borrow money,Cigna Base HDHP
+142,35,Just Me,43256,43256.0,3,none,77,649,2126,6,moving,5,I exercise everyday,borrow money,Cigna Choice HDHP
+143,35,Me and my kids,56031,95252.7,3,high blood pressure,28,326,551,2,none,2,I exercise 3x a week,have savings,Cigna Choice HDHP
+144,57,Me and my Spouse,56483,67779.59999999999,3,none,73,0,492,0,none,1,I don't exercise,borrow money,Cigna Base HDHP
+145,21,Me and my Spouse,64000,89600.0,3,none,73,0,2941,0,moving,6,I don't exercise,borrow money,Cigna Choice HDHP
+146,34,Just Me,40222,40222.0,3,none,129,79,1961,1,married,5,I exercise 3x a week,HSA,Cigna Choice HDHP
+147,37,Me and my kids,64773,103636.8,3,none,75,300,935,3,moving,2,I exercise everyday,borrow money,Cigna Base HDHP
+148,42,"Me, Spouse, and Kids",34605,58828.5,3,none,52,840,597,8,none,2,I don't exercise,have savings,Cigna Choice HDHP
+149,27,Me and my Spouse,65123,71635.3,3,none,48,273,2360,2,moving,5,I exercise everyday,borrow money,Cigna Choice HDHP
+150,27,Me and my Spouse,114723,172084.5,4,none,33,320,344,2,baby,1,I exercise everyday,borrow money,Cigna Copay Plan PPO
+151,27,"Me, Spouse, and Kids",60751,66826.1,3,none,52,122,776,1,married,2,I exercise 3x a week,have savings,Cigna Base HDHP
+152,41,"Me, Spouse, and Kids",68899,89568.7,3,none,63,1064,772,8,none,2,I exercise everyday,have savings,Cigna Choice HDHP
+153,40,"Me, Spouse, and Kids",96144,153830.4,5,none,99,275,3722,2,moving,8,I exercise 3x a week,borrow money,Cigna Copay Plan PPO
+154,19,Me and my Spouse,65596,72155.6,5,none,20,302,959,4,none,3,I exercise 3x a week,have savings,Cigna Choice HDHP
+155,55,"Me, Spouse, and Kids",104161,166657.6,3,obesity,91,0,0,0,none,0,I don't exercise,have savings,Cigna Choice HDHP
+156,46,Just Me,60442,60442.0,3,none,49,0,1672,0,moving,5,I exercise everyday,HSA,Cigna Choice HDHP
+157,22,Me and my Spouse,50734,76101.0,3,high blood pressure,45,563,450,5,none,1,I exercise 3x a week,have savings,Cigna Choice HDHP
+158,46,Just Me,48110,48110.0,3,high blood pressure,99,96,0,1,baby,0,I exercise 3x a week,have savings,Cigna Copay Plan PPO
+159,57,Just Me,66336,66336.0,3,heart disease,94,410,948,6,none,2,I don't exercise,HSA,Cigna Copay Plan PPO
+160,22,Me and my kids,89634,143414.4,3,obesity,82,803,0,9,married,0,I exercise everyday,borrow money,Cigna Copay Plan PPO
+161,58,"Me, Spouse, and Kids",90382,144611.2,4,high blood pressure,33,0,0,0,moving,0,I exercise 3x a week,borrow money,Cigna Choice HDHP
+162,67,Me and my Spouse,66444,99666.0,3,none,24,0,2044,0,none,6,I don't exercise,HSA,Cigna Choice HDHP
+163,38,Just Me,64415,64415.0,4,high blood sugar,53,193,985,2,none,2,I exercise 3x a week,have savings,Cigna Copay Plan PPO
+164,32,Me and my Spouse,43096,60334.4,3,none,85,145,0,2,none,0,I don't exercise,have savings,Cigna Base HDHP
+165,20,Just Me,42318,42318.0,3,high blood sugar,969,99,2781,1,med_procedure,9,I exercise 3x a week,borrow money,Cigna Copay Plan PPO
+166,28,Me and my kids,133038,159645.6,5,none,737,109,845,1,none,3,I don't exercise,borrow money,Cigna Choice HDHP
+167,21,Just Me,47762,47762.0,4,none,42,173,723,2,med_procedure,2,I don't exercise,borrow money,Cigna Copay Plan PPO
+168,55,Me and my Spouse,58689,93902.4,3,none,79,0,808,0,moving,2,I don't exercise,borrow money,Cigna Base HDHP
+169,32,Just Me,137458,137458.0,3,none,74,285,1361,2,none,3,I exercise everyday,HSA,Cigna Base HDHP
+170,32,Just Me,121193,121193.0,3,none,52,594,0,9,moving,0,I exercise everyday,have savings,Cigna Copay Plan PPO
+171,22,Me and my Spouse,61759,92638.5,2,none,49,110,360,1,married,1,I exercise everyday,HSA,Cigna Base HDHP
+172,46,Just Me,97944,97944.0,5,none,1065,0,813,0,moving,2,I exercise everyday,borrow money,Cigna Choice HDHP
+173,50,Me and my Spouse,117566,152835.80000000002,3,high blood pressure,24,656,0,8,none,0,I don't exercise,have savings,Cigna Choice HDHP
+174,54,Me and my Spouse,67196,100794.0,3,none,66,0,639,0,none,2,I don't exercise,borrow money,Cigna Base HDHP
+175,34,Me and my kids,56515,96075.5,3,high blood pressure,92,763,788,7,moving,2,I don't exercise,have savings,Cigna Choice HDHP
+176,37,"Me, Spouse, and Kids",91927,156275.9,3,none,44,312,818,2,none,2,I exercise everyday,borrow money,Cigna Base HDHP
+177,40,Me and my Spouse,80911,105184.3,4,none,93,0,738,0,married,2,I exercise everyday,borrow money,Cigna Choice HDHP
+178,57,Just Me,76215,76215.0,3,none,32,142,0,1,baby,0,I exercise everyday,borrow money,Cigna Copay Plan PPO
+179,34,Me and my kids,128546,218528.2,5,none,93,224,2967,2,med_procedure,7,I exercise everyday,have savings,Cigna Copay Plan PPO
+180,45,"Me, Spouse, and Kids",32593,48889.5,3,high blood pressure,41,106,967,1,none,2,I exercise 3x a week,borrow money,Cigna Choice HDHP
+181,36,Me and my kids,32309,42001.7,4,high blood sugar,90,238,3370,3,none,9,I exercise 3x a week,have savings,Cigna Choice HDHP
+182,36,Me and my kids,42363,46599.3,4,high blood sugar,60,206,371,2,none,1,I exercise 3x a week,have savings,Cigna Choice HDHP
+183,40,Just Me,69153,69153.0,4,none,37,139,846,1,moving,2,I exercise 3x a week,have savings,Cigna Choice HDHP
+184,50,Just Me,127841,127841.0,3,high blood pressure,61,115,625,1,none,2,I exercise 3x a week,have savings,Cigna Choice HDHP
+185,23,Just Me,40315,40315.0,3,none,76,746,666,5,med_procedure,2,I don't exercise,have savings,Cigna Copay Plan PPO
+186,58,"Me, Spouse, and Kids",62584,100134.4,3,none,28,322,481,2,baby,1,I exercise 3x a week,have savings,Cigna Copay Plan PPO
+187,27,Me and my kids,61310,91965.0,3,none,43,243,658,2,none,2,I exercise 3x a week,borrow money,Cigna Base HDHP
+188,33,"Me, Spouse, and Kids",144428,173313.6,3,none,950,0,4256,0,moving,9,I don't exercise,have savings,Cigna Copay Plan PPO
+189,45,Just Me,70706,70706.0,3,none,87,201,634,2,baby,2,I don't exercise,borrow money,Cigna Copay Plan PPO
+190,46,Me and my Spouse,134351,174656.30000000002,4,none,91,979,1842,9,none,4,I exercise 3x a week,HSA,Cigna Copay Plan PPO
+191,18,Just Me,65156,65156.0,3,high blood pressure,20,0,2008,0,moving,6,I don't exercise,borrow money,Cigna Choice HDHP
+192,44,"Me, Spouse, and Kids",60380,72456.0,3,none,800,1303,620,8,baby,2,I exercise 3x a week,borrow money,Cigna Choice HDHP
+193,55,"Me, Spouse, and Kids",65363,71899.3,3,none,67,93,421,1,baby,1,I exercise 3x a week,borrow money,Cigna Choice HDHP
+194,45,Me and my kids,47232,56678.4,3,high blood sugar,58,259,2067,2,none,6,I don't exercise,borrow money,Cigna Choice HDHP
+195,55,Just Me,68591,68591.0,3,none,85,263,0,2,med_procedure,0,I exercise 3x a week,have savings,Cigna Copay Plan PPO
+196,26,Me and my Spouse,128538,167099.4,4,high blood pressure,422,0,2124,0,none,7,I exercise everyday,have savings,Cigna Copay Plan PPO
+197,52,"Me, Spouse, and Kids",52062,78093.0,3,none,641,80,428,1,none,1,I don't exercise,have savings,Cigna Base HDHP
+198,36,Just Me,70207,70207.0,3,obesity,80,90,1355,1,none,3,I exercise everyday,HSA,Cigna Choice HDHP
+199,55,Me and my Spouse,36927,48005.1,1,high blood pressure,22,308,584,2,none,2,I exercise 3x a week,HSA,Cigna Choice HDHP
+200,23,Me and my kids,60435,84609.0,3,none,27,478,447,3,baby,1,I exercise 3x a week,borrow money,Cigna Copay Plan PPO
+201,19,Just Me,133141,133141.0,3,high blood pressure,87,671,811,8,none,2,I exercise everyday,HSA,Cigna Choice HDHP
+202,21,"Me, Spouse, and Kids",83290,133264.0,3,none,70,0,674,0,none,2,I exercise everyday,have savings,Cigna Base HDHP
+203,26,Just Me,67015,67015.0,3,none,397,1122,0,7,moving,0,I exercise 3x a week,borrow money,Cigna Choice HDHP
+204,31,Just Me,61422,61422.0,5,none,97,175,0,2,med_procedure,0,I exercise 3x a week,borrow money,Cigna Copay Plan PPO
+205,42,"Me, Spouse, and Kids",146455,248973.5,3,none,67,474,1433,4,married,5,I exercise 3x a week,have savings,Cigna Choice HDHP
+206,56,Me and my Spouse,117318,152513.4,3,none,281,1309,893,9,none,2,I exercise 3x a week,borrow money,Cigna Copay Plan PPO
+207,35,"Me, Spouse, and Kids",76774,107483.6,3,none,940,139,311,2,moving,1,I don't exercise,have savings,Cigna Base HDHP
+208,36,Me and my kids,37084,48209.2,3,high blood pressure,636,104,0,1,moving,0,I don't exercise,have savings,Cigna Choice HDHP
+209,18,"Me, Spouse, and Kids",48505,67907.0,3,obesity,61,0,2574,0,none,7,I don't exercise,have savings,Cigna Choice HDHP
+210,44,Just Me,31965,31965.0,3,none,67,0,2726,0,moving,6,I exercise 3x a week,have savings,Cigna Choice HDHP
+211,40,Me and my Spouse,63812,108480.4,3,none,34,275,963,2,moving,2,I exercise 3x a week,borrow money,Cigna Base HDHP
+212,57,Me and my Spouse,36967,62843.9,3,none,37,390,0,4,none,0,I exercise 3x a week,HSA,Cigna Base HDHP
+213,58,Me and my Spouse,50938,56031.8,3,none,549,0,564,0,none,2,I don't exercise,HSA,Cigna Base HDHP
+214,34,Just Me,64402,64402.0,3,none,57,244,759,2,moving,2,I exercise 3x a week,borrow money,Cigna Base HDHP
+215,52,Just Me,43201,43201.0,3,high blood sugar,75,76,418,1,none,1,I exercise 3x a week,borrow money,Cigna Copay Plan PPO
+216,52,Me and my Spouse,83925,92317.5,4,none,84,302,3648,2,none,9,I exercise 3x a week,have savings,Cigna Copay Plan PPO
+217,34,Just Me,67972,67972.0,4,high blood sugar,57,305,1599,2,none,5,I don't exercise,have savings,Cigna Copay Plan PPO
+218,56,Me and my Spouse,146084,219126.0,3,none,81,0,0,0,baby,0,I exercise everyday,borrow money,Cigna Copay Plan PPO
+219,30,"Me, Spouse, and Kids",64392,90148.8,3,obesity,35,163,855,1,moving,2,I don't exercise,borrow money,Cigna Choice HDHP
+220,56,"Me, Spouse, and Kids",61721,86409.4,3,none,23,217,339,3,none,1,I exercise 3x a week,have savings,Cigna Base HDHP
+221,51,Just Me,47750,47750.0,5,high blood sugar,72,564,439,6,none,1,I exercise everyday,borrow money,Cigna Copay Plan PPO
+222,18,Just Me,106216,106216.0,4,none,56,0,3951,0,none,8,I exercise 3x a week,borrow money,Cigna Copay Plan PPO
+223,26,Me and my Spouse,66332,79598.4,5,high blood sugar,58,204,605,2,none,2,I exercise everyday,HSA,Cigna Choice HDHP
+224,27,Me and my kids,91615,146584.0,3,obesity,98,1369,0,9,none,0,I exercise 3x a week,have savings,Cigna Copay Plan PPO
+225,35,Me and my kids,111776,122953.6,5,high blood sugar,73,171,0,2,moving,0,I exercise everyday,borrow money,Cigna Copay Plan PPO
+226,27,"Me, Spouse, and Kids",66746,80095.2,2,high blood pressure,91,249,3112,2,none,7,I exercise 3x a week,have savings,Cigna Choice HDHP
+227,38,Me and my kids,110573,187974.1,3,obesity,44,0,0,0,moving,0,I exercise everyday,have savings,Cigna Choice HDHP
+228,57,Me and my Spouse,64759,77710.8,3,none,1133,148,0,2,baby,0,I exercise 3x a week,have savings,Cigna Choice HDHP
+229,58,Just Me,68240,68240.0,4,high blood pressure,77,1087,561,7,none,2,I exercise everyday,have savings,Cigna Choice HDHP
+230,57,Me and my kids,69557,97379.8,3,none,78,586,424,4,moving,1,I don't exercise,have savings,Cigna Base HDHP
+231,48,Me and my Spouse,108385,173416.0,3,high blood pressure,261,280,954,2,none,2,I exercise everyday,have savings,Cigna Choice HDHP
+232,30,Me and my Spouse,120925,133017.5,3,none,812,791,731,7,none,2,I exercise 3x a week,have savings,Cigna Choice HDHP
+233,38,"Me, Spouse, and Kids",73456,102838.4,2,obesity,87,202,1635,2,moving,4,I exercise everyday,have savings,Cigna Choice HDHP
+234,45,Me and my kids,58028,87042.0,3,none,52,78,2248,1,none,6,I don't exercise,borrow money,Cigna Choice HDHP
+235,26,Me and my kids,73473,110209.5,2,none,890,720,1519,6,none,4,I exercise 3x a week,borrow money,Cigna Choice HDHP
+236,46,Just Me,34317,34317.0,4,obesity,38,121,563,1,med_procedure,2,I exercise 3x a week,have savings,Cigna Copay Plan PPO
+237,31,"Me, Spouse, and Kids",71153,99614.2,3,cancer,52,217,0,2,none,0,I exercise everyday,borrow money,Cigna Copay Plan PPO
+238,57,Me and my kids,60168,90252.0,3,none,90,0,955,0,moving,2,I exercise everyday,borrow money,Cigna Base HDHP
+239,56,Me and my Spouse,67866,88225.8,5,none,95,380,711,4,none,2,I exercise everyday,borrow money,Cigna Choice HDHP
+240,37,Just Me,61930,61930.0,5,none,1170,0,0,0,baby,0,I exercise 3x a week,have savings,Cigna Copay Plan PPO
+241,38,Me and my Spouse,129999,220998.3,3,high blood pressure,21,130,857,1,moving,2,I don't exercise,have savings,Cigna Choice HDHP
+242,40,Me and my Spouse,107469,161203.5,2,none,98,96,0,1,none,0,I exercise 3x a week,HSA,Cigna Base HDHP
+243,62,Me and my kids,73833,88599.59999999999,4,none,443,857,1095,7,none,4,I exercise everyday,have savings,Cigna Choice HDHP
+244,53,"Me, Spouse, and Kids",67028,107244.8,3,none,81,0,1285,0,none,3,I exercise everyday,borrow money,Cigna Base HDHP
+245,47,Me and my Spouse,44428,48870.8,3,none,27,124,0,1,none,0,I exercise 3x a week,HSA,Cigna Base HDHP
+246,26,Just Me,67607,67607.0,3,none,54,146,0,1,none,0,I don't exercise,borrow money,Cigna Base HDHP
+247,40,"Me, Spouse, and Kids",37172,44606.4,3,none,131,285,1244,2,none,3,I exercise everyday,have savings,Cigna Base HDHP
+248,25,Me and my Spouse,62946,88124.4,4,high blood pressure,41,594,3237,5,moving,9,I exercise everyday,borrow money,Cigna Copay Plan PPO
+249,45,"Me, Spouse, and Kids",63929,70321.90000000001,3,high blood sugar,26,233,3194,2,none,9,I don't exercise,borrow money,Cigna Choice HDHP
+250,43,Me and my Spouse,138868,208302.0,3,none,30,898,399,9,moving,1,I exercise 3x a week,HSA,Cigna Copay Plan PPO
+251,42,"Me, Spouse, and Kids",63644,101830.4,3,none,40,804,2236,5,none,5,I don't exercise,have savings,Cigna Choice HDHP
+252,27,"Me, Spouse, and Kids",45264,72422.40000000001,3,none,33,232,0,2,none,0,I don't exercise,borrow money,Cigna Base HDHP
+253,54,"Me, Spouse, and Kids",115415,184664.0,5,none,42,234,879,2,moving,2,I don't exercise,have savings,Cigna Choice HDHP
+254,19,Just Me,99535,99535.0,3,high blood pressure,93,236,2359,2,none,8,I don't exercise,have savings,Cigna Copay Plan PPO
+255,24,Me and my kids,128637,167228.1,5,high blood pressure,20,263,623,2,married,2,I don't exercise,borrow money,Cigna Choice HDHP
+256,23,Me and my kids,66328,72960.8,3,high blood pressure,69,173,655,2,baby,2,I exercise 3x a week,have savings,Cigna Choice HDHP
+257,43,Me and my kids,68483,89027.90000000001,3,none,159,839,2299,6,baby,6,I exercise 3x a week,have savings,Cigna Copay Plan PPO
+258,37,Me and my kids,64200,96300.0,3,high blood pressure,26,216,0,2,none,0,I exercise everyday,have savings,Cigna Choice HDHP
+259,37,Just Me,69843,69843.0,5,none,59,166,363,2,none,1,I exercise 3x a week,HSA,Cigna Choice HDHP
+260,20,Me and my Spouse,60866,79125.8,4,none,21,158,0,2,med_procedure,0,I exercise everyday,borrow money,Cigna Choice HDHP
+261,53,Just Me,87056,87056.0,3,cancer,58,292,850,2,baby,2,I exercise 3x a week,have savings,Cigna Copay Plan PPO
+262,45,Me and my kids,34941,38435.100000000006,5,none,55,84,404,1,baby,1,I exercise 3x a week,HSA,Cigna Choice HDHP
+263,27,Me and my kids,45892,55070.4,5,none,764,686,572,8,none,2,I exercise 3x a week,borrow money,Cigna Choice HDHP
+264,37,Me and my Spouse,60487,84681.79999999999,5,none,32,358,0,4,none,0,I exercise everyday,HSA,Cigna Choice HDHP
+265,35,Me and my Spouse,113372,170058.0,3,heart disease,66,134,0,2,none,0,I don't exercise,HSA,Cigna Copay Plan PPO
+266,34,Just Me,53053,53053.0,3,none,77,858,2464,6,none,5,I don't exercise,have savings,Cigna Choice HDHP
+267,37,Me and my kids,53825,86120.0,2,none,32,0,725,0,baby,2,I don't exercise,have savings,Cigna Choice HDHP
+268,32,Me and my Spouse,117239,187582.4,3,none,65,455,796,6,none,2,I don't exercise,HSA,Cigna Choice HDHP
+269,43,Me and my Spouse,46107,64549.8,3,none,68,278,943,2,none,2,I exercise everyday,have savings,Cigna Base HDHP
+270,25,Me and my kids,66430,86359.0,4,none,40,0,0,0,none,0,I don't exercise,borrow money,Cigna Choice HDHP
