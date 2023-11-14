@@ -12,19 +12,23 @@ class Cache
     end
     
     def get(key)
-        return nil if key.nil?
-        result = @lookup_table[key]
-        return nil unless result        
-        return result.value if @tail == result
-        if result.prev_node == nil
-            @head = result.next_node
-            @head.prev_node = nil        
-        end        
-        @tail.next_node = result
-        result.next_node = nil
-        result.prev_node = @tail
-        @tail = result
-        result.value
+      return nil if key.nil?
+      result = @lookup_table[key]
+      return nil unless result
+      return result.value if @tail == result
+      if result.prev_node == nil
+        @head = result.next_node
+        @head.prev_node = nil
+      else
+        # fix middle nodes to avoid missing nodes
+        result.prev_node.next_node = result.next_node
+      end
+
+      @tail.next_node = result
+      result.next_node = nil
+      result.prev_node = @tail
+      @tail = result
+      result.value
     end
     
     def put(key, val)
