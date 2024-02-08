@@ -13,6 +13,26 @@ class MethodsTest(unittest.TestCase):
                 'step': 'enter',
                 'url': 'https://example.com/enter'
             },
+            'c': [
+                {
+                    'step': 'exit',
+                    'url': 'https://example.com/exit'
+                },
+                {
+                    'step': 'other',
+                    'url': 'https://example.com/other'
+                }
+            ]    
+        }
+        self.my_nested_dict = {
+            'a': {
+                'step': 'authorize',
+                'url': 'https://example.com/authorize'
+            },
+            'b': {
+                'step': 'enter',
+                'url': 'https://example.com/enter'
+            },
             'c': [                                
                 {
                     'step': 'exit',
@@ -21,6 +41,23 @@ class MethodsTest(unittest.TestCase):
                 {
                     'step': 'other',
                     'url': 'https://example.com/other'
+                },
+                {
+                    'd': {
+                        'step': 'logout',
+                        'url': 'https://example.com/logout'
+                    },
+                    'e': [
+                        {
+                            'step': 'profile',
+                            'url': 'https://example.com/profile'
+                        },
+                        {
+                            'step': 'feed',
+                            'url': 'https://example.com/feed'
+                        }
+
+                    ]
                 }
             ]
         }
@@ -74,6 +111,17 @@ class MethodsTest(unittest.TestCase):
             None,
             get_adjacent_key(self.my_dict, 'url', 'https://example.com/buy', 'step')
         )
+
+    def test_nested_structures(self):
+        self.assertEqual(
+            'profile',
+            get_adjacent_key(self.my_nested_dict, 'url', 'https://example.com/profile', 'step')
+        )
+        self.assertEqual(
+            'https://example.com/feed',
+            get_adjacent_key(self.my_nested_dict, 'step', 'feed', 'url')
+        )
+
 
 if __name__ == '__main__':
     unittest.main()

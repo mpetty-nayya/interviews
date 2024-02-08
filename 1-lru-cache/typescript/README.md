@@ -8,7 +8,7 @@ Our LRU Cache is implemented by pairing a Doubly Linked List with a Hash
 
 * **src**  - dir containing implementation
 * **tests** - dir containing unit tests
-* [lru-cache.png](../../1-lru-cache/lru-cache.png) - diagrom of cache usage
+* [lru-cache.png](../../1-lru-cache/lru-cache.png) - diagram of cache usage
 
 # Build
 
