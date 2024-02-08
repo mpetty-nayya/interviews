@@ -31,7 +31,8 @@ Implement the provided method so all unit test pass
 See [root readme](../../README.md) to install python
 
 # Running tests
+From the `interviews` directory
 ```
-interviews % cd 2-adjacent-key/python
-python % python -m unittest tests.methods
+cd ./2-adjacent-key/python
+python -m unittest tests.methods
 ```
